@@ -91,7 +91,8 @@
 +  The presence of multiple cores on a single chip is known as **multi-core processing**.
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/942e89bb-cc43-4032-8976-019c47d59ba3)
+ 
+  ![kus](https://github.com/KushalR17/pes_pd/assets/142383052/aacb4f53-6afe-496b-b04e-3f6ba8329a0b)
 
 </p>
 <p align="center">
@@ -125,7 +126,8 @@
 + RISC architectures simplify the instruction set by focusing on a smaller set of instructions, each of which can be executed in a single clock cycle. This approach usually leads to faster execution of individual instructions. 
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/a133c1a5-759e-4eb4-8a50-b3d67043fdd5)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/a133c1a5-759e-4eb4-8a50-b3d67043fdd5)
 
 </p>
 <p align="center">
@@ -159,7 +161,8 @@
 + EDA (Electronic Design Automation) tools are a set of software applications and tools used by electronics engineers and integrated circuit (IC) designers to design, simulate, verify, and analyze electronic circuits and systems.
 + These tools are essential for designing complex electronic devices, ranging from simple integrated circuits to advanced microprocessors and systems-on-chip (SoCs).
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/30e72250-326b-441e-8343-e065cf671534)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/30e72250-326b-441e-8343-e065cf671534)
 
 </p>
 
@@ -174,7 +177,8 @@
 
 **RTL to GDSII**
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/aea3f8af-2dc9-4381-b9a4-4fb0c97828b9)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/aea3f8af-2dc9-4381-b9a4-4fb0c97828b9)
 
 </p>
 <p align="center">
@@ -221,7 +225,8 @@ During the detailed placement phase, the positions of individual components, suc
 
 + **Strive Chipsets**
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/e298e352-9ee8-497f-99c6-dafd88a75723)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/e298e352-9ee8-497f-99c6-dafd88a75723)
 
 </p>
 <p align="center">
@@ -235,7 +240,7 @@ During the detailed placement phase, the positions of individual components, suc
 
 
 <p align="center">
-<img src="https://github.com/Veda1809/pes_pd/assets/142098395/e1f77b82-98df-43e2-b304-cfe6ec7276b1">
+
 </p>
 
 <p align="center">
@@ -295,7 +300,8 @@ During the detailed placement phase, the positions of individual components, suc
 
 + PDK used in this workshop is Skywater 130nm PDK and OpenLane is built around this PDK.
 <p align="center">'
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/9fcb8945-bdde-424b-9647-2ee7b970593d)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/9fcb8945-bdde-424b-9647-2ee7b970593d)
 
 </p>
 <p align="center">
@@ -307,7 +313,8 @@ During the detailed placement phase, the positions of individual components, suc
 + **sky130A** is made compatible with our open-source environment.
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/94356872-5afe-4877-b5d5-55ab46f0100b)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/94356872-5afe-4877-b5d5-55ab46f0100b)
 
 </p>
 <p align="center">
@@ -318,7 +325,8 @@ During the detailed placement phase, the positions of individual components, suc
 + **libs.tech** seems specific to the tool.
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/4158a23b-56b9-400b-8010-f4f750e1524f)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/4158a23b-56b9-400b-8010-f4f750e1524f)
 
 </p>
 <p align="center">
@@ -334,7 +342,8 @@ During the detailed placement phase, the positions of individual components, suc
 + To invoke OpenLane
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/a37b2c5d-b782-4085-b000-f401ed60296b)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/a37b2c5d-b782-4085-b000-f401ed60296b)
 
 </p>
 <p align="center">
@@ -344,7 +353,8 @@ During the detailed placement phase, the positions of individual components, suc
 + Under **Designs** folder, we are going to use **picorv32a**.
 + **src** files contains verilog and sdc file.
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/8ee769de-7b78-49ee-943c-dd6d2c77b578)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/8ee769de-7b78-49ee-943c-dd6d2c77b578)
 
 </p>
 <p align="center">
@@ -354,7 +364,8 @@ During the detailed placement phase, the positions of individual components, suc
 + `less config.tcl`
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/3cbaa2b6-1f6f-47f8-8c70-8005efea9c7d)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/3cbaa2b6-1f6f-47f8-8c70-8005efea9c7d)
 
 </p>
 <p align="center">
@@ -364,7 +375,8 @@ Fig 6.
 + We are going to prepare the design.
 + `prep -design picorv32a`.
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/4064f927-865d-4b57-ad1c-713fa5c47cf4)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/4064f927-865d-4b57-ad1c-713fa5c47cf4)
 
 </p>
 <p align="center">
@@ -376,7 +388,8 @@ Fig 6.
 <summary> Review Files after Design Prep and Run Synthesis </summary>
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/0e4b6b2d-9373-4024-968f-64ab5b3ba5b8)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/0e4b6b2d-9373-4024-968f-64ab5b3ba5b8)
 
 </p>
 <p align="center">
@@ -384,7 +397,8 @@ Fig 6.
 </p>
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/4231df97-d912-4e2a-8b49-c97e2781cd8b)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/4231df97-d912-4e2a-8b49-c97e2781cd8b)
 
 </p>
 <p align="center">
@@ -392,7 +406,8 @@ Fig 6.
 </p>
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/f99fd36a-3e88-45c8-853b-3ad569b7db63)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/f99fd36a-3e88-45c8-853b-3ad569b7db63)
 
 </p>
 <p align="center">
@@ -402,7 +417,8 @@ Fig 6.
 + `%run_synthesis`
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/04f2cfe7-61cc-4406-baed-9f589e005ea2)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/04f2cfe7-61cc-4406-baed-9f589e005ea2)
 
 </p>
 <p align="center">
@@ -428,7 +444,8 @@ https://github.com/efabless/openlane2
   - the number of cells = 14876
 + The clock ratio is dff/cells = 0.108
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/1d982d90-182e-4ea9-8d24-17d96531ab3a)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/1d982d90-182e-4ea9-8d24-17d96531ab3a)
 
 </p>
 <p align="center">
@@ -440,7 +457,8 @@ https://github.com/efabless/openlane2
 `less picorv32a.synthesis.v`
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/fb10339d-de96-46d0-a600-cfa6fe33b33b)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/fb10339d-de96-46d0-a600-cfa6fe33b33b)
 
 </p>
 <p align="center">
@@ -451,7 +469,8 @@ https://github.com/efabless/openlane2
 
 `less 1-yosys_4.stat.rpt`
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/f0f67798-d3f0-4387-846c-ba2a974fc0ce)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/f0f67798-d3f0-4387-846c-ba2a974fc0ce)
 
 </p>
 <p align="center">
@@ -473,7 +492,8 @@ https://github.com/efabless/openlane2
 + We can calculate the utilisation factor and the aspect ratio by the formulae given below:
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/e55cecc2-a4a6-4b77-9412-022d4422b31e)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/e55cecc2-a4a6-4b77-9412-022d4422b31e)
 
 </p>
 <p align="center">
@@ -487,7 +507,8 @@ https://github.com/efabless/openlane2
 
 + Consider a combinational logic which is converted into netlist
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/baccad09-23fb-4eb0-8b7b-129243b358d9)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/baccad09-23fb-4eb0-8b7b-129243b358d9)
 
 </p>
 <p align="center">
@@ -496,7 +517,8 @@ https://github.com/efabless/openlane2
 
 + Cut the circuit into two parts and separate them out.
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/ee0dda8f-5776-41af-9956-0683b59dfe33)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/ee0dda8f-5776-41af-9956-0683b59dfe33)
 
 </p>
 <p align="center">
@@ -505,7 +527,8 @@ https://github.com/efabless/openlane2
 
 + Extend the IO pins
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/cff3d747-4dfb-4980-b37b-ea867cbf0b95)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/cff3d747-4dfb-4980-b37b-ea867cbf0b95)
 
 </p>
 <p align="center">
@@ -514,7 +537,8 @@ https://github.com/efabless/openlane2
 
 + Black box the boxes
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/b775e86e-58b3-4c5a-ac7d-5da36d0d9315)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/b775e86e-58b3-4c5a-ac7d-5da36d0d9315)
 
 </p>
 <p align="center">
@@ -523,7 +547,8 @@ https://github.com/efabless/openlane2
 
 + Separate the black boxes as two different IPs or modules
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/106e7f00-4a08-4df0-9797-f2a1f3a64121)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/106e7f00-4a08-4df0-9797-f2a1f3a64121)
 
 </p>
 <p align="center">
@@ -545,7 +570,8 @@ https://github.com/efabless/openlane2
 + When a circuit is powered, especially in digital circuits where there are rapid transitions between logic states, the current demand can change rapidly. Decoupling capacitors are placed close to the power pins of ICs, such as microcontrollers or processors, to counteract these rapid changes.
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/fe600405-850a-4591-9ada-d8fc45da4f02)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/fe600405-850a-4591-9ada-d8fc45da4f02)
 
 <p align="center">
   Fig 7.
@@ -559,7 +585,8 @@ https://github.com/efabless/openlane2
 + Effective power planning is essential in modern electronics to meet performance, power consumption, and thermal constraints. 
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/2e7f047f-feeb-48e9-a557-de9e472aa7bf)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/2e7f047f-feeb-48e9-a557-de9e472aa7bf)
 
 </p>
 <p align="center">
@@ -577,7 +604,8 @@ https://github.com/efabless/openlane2
 + Proper pin placement is essential to ensure that the IC can interface with the external world effectively, meet performance requirements, and adhere to manufacturability constraints.
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/44124330-19f7-41a7-8674-861325071cd1)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/44124330-19f7-41a7-8674-861325071cd1)
 
 </p>
 <p align="center">
@@ -585,7 +613,8 @@ https://github.com/efabless/openlane2
 </p>
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/62376e58-47d5-4be9-a6a4-f4518d13e873)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/62376e58-47d5-4be9-a6a4-f4518d13e873)
 
 </p>
 <p align="center">
@@ -597,7 +626,8 @@ https://github.com/efabless/openlane2
 + Blockage constraints are used to restrict or reserve specific areas of the chip's layout for various purposes, such as accommodating specialized circuitry, ensuring signal integrity, or meeting manufacturing requirements.
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/46400557-1a18-4627-b2a1-d1db190950b9)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/46400557-1a18-4627-b2a1-d1db190950b9)
 
 </p>
 <p align="center">
@@ -611,7 +641,8 @@ https://github.com/efabless/openlane2
 
 + `less floorplan.tcl`
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/b2e68ff8-dc36-40e8-88aa-59e1dfc65995)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/b2e68ff8-dc36-40e8-88aa-59e1dfc65995)
 
 </p>
 <p align="center">
@@ -620,7 +651,8 @@ https://github.com/efabless/openlane2
 
 + `less config.tcl`
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/cb12d842-91fb-4c9d-9619-ff04aa24348d)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/cb12d842-91fb-4c9d-9619-ff04aa24348d)
 
 </p>
 <p align="center">
@@ -629,7 +661,8 @@ https://github.com/efabless/openlane2
 
 + `%run_floorplan`
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/4b38a36e-9fbb-400b-9fa9-f074c5d969ca)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/4b38a36e-9fbb-400b-9fa9-f074c5d969ca)
 
 </p>
 <p align="center">
@@ -642,7 +675,8 @@ https://github.com/efabless/openlane2
 <summary> Review Floorplan Files and Steps to View Floorplan </summary>
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/20f2f581-b88a-4b90-bac2-4e7dd7da80a7)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/20f2f581-b88a-4b90-bac2-4e7dd7da80a7)
 
 </p>
 <p align="center">
@@ -650,7 +684,8 @@ https://github.com/efabless/openlane2
 </p>
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/8684bde6-69fb-4b97-80a2-c8279ac2fe90)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/8684bde6-69fb-4b97-80a2-c8279ac2fe90)
 
 </p>
 <p align="center">
@@ -679,7 +714,8 @@ https://github.com/efabless/openlane2
  `magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.lef def read picorv32a.floorplan.def &`
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/2b5ba0f9-ac9a-40ff-ac2e-29c07cc60666)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/2b5ba0f9-ac9a-40ff-ac2e-29c07cc60666)
 
 </p>
 <p align="center">
@@ -688,7 +724,8 @@ https://github.com/efabless/openlane2
 
 + When viewed the horizontal metal layer
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/649e0a80-cdce-4e7f-8451-482a32fe27d0)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/649e0a80-cdce-4e7f-8451-482a32fe27d0)
 
 </p>
 <p align="center">
@@ -697,7 +734,8 @@ https://github.com/efabless/openlane2
 
 + When viewed the vertical metal layer
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/9e34f3d2-3bf0-4058-a078-5a5051a0e30a)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/9e34f3d2-3bf0-4058-a078-5a5051a0e30a)
 
 </p>
 <p align="center">
@@ -715,7 +753,8 @@ https://github.com/efabless/openlane2
 + This step involves associating the logical components and connections described in the netlist with physical components, such as gates, flip-flops, and interconnections, that will be used in the actual implementation.
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/d4c35a82-1990-42aa-a659-811b050f2908)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/d4c35a82-1990-42aa-a659-811b050f2908)
 
 </p>
 <p align="center">
@@ -730,7 +769,8 @@ https://github.com/efabless/openlane2
 + We need to estimate the wire length and capacitance, and based on that insert repeaters.
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/efb51e8e-e69e-4c6c-b35d-19802cad473a)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/efb51e8e-e69e-4c6c-b35d-19802cad473a)
 
 </p>
 <p align="center">
@@ -754,7 +794,8 @@ https://github.com/efabless/openlane2
 
 + `%run_placement`
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/48fa94a8-d34a-4ef5-a475-63b5d5c67733)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/48fa94a8-d34a-4ef5-a475-63b5d5c67733)
 
 </p>
 <p align="center">
@@ -764,7 +805,8 @@ https://github.com/efabless/openlane2
 +`magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.lef def read picorv32a.placement.def &`
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/91586fa0-2a38-4818-9090-627fabc0ece2)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/91586fa0-2a38-4818-9090-627fabc0ece2)
 
 </p>
 <p align="center">
@@ -779,7 +821,8 @@ Fig 4.
 
 **Cell Design Flow**
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/ce1c1239-9e3d-432a-ad17-7ce32ba2e795)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/ce1c1239-9e3d-432a-ad17-7ce32ba2e795)
 
 </p>
 <p align="center">
@@ -846,7 +889,8 @@ Fig 4.
 <summary> Timing Threshold Definitions </summary>
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/4f6cd002-7fa1-40b8-bcd3-8d92baf29b73)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/4f6cd002-7fa1-40b8-bcd3-8d92baf29b73)
 
 </p>
 <p align="center">
@@ -854,7 +898,8 @@ Fig 4.
 </p>
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/ca2858c2-a079-4007-b18a-a38687ae9e17)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/ca2858c2-a079-4007-b18a-a38687ae9e17)
 
 </p>
 <p align="center">
@@ -902,7 +947,8 @@ Fig 4.
   `% run_floorplan`
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/9480fe02-911e-413d-897d-67a728eab2f5)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/9480fe02-911e-413d-897d-67a728eab2f5)
 
 </p>
 <p align="center">
@@ -923,7 +969,8 @@ Fig 4.
 + Name nodes
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/df0c31fd-78b2-431b-8486-8a5414d31513)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/df0c31fd-78b2-431b-8486-8a5414d31513)
 
 </p>
 <p align="center">
@@ -965,7 +1012,8 @@ Vin in 0 2.5
  - `plot out vs in`
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/9ecc0c02-3165-4b54-837a-1d888b660383)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/9ecc0c02-3165-4b54-837a-1d888b660383)
 
 </p>
 <p align="center">
@@ -992,7 +1040,8 @@ Fig 3.
 + `git clone https://github.com/nickson-jose/vsdstdcelldesign.git`
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/4d96e5a0-4346-44d4-aa2b-5dc4a91939ea)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/4d96e5a0-4346-44d4-aa2b-5dc4a91939ea)
 
 </p>
 <p align="center">
@@ -1002,7 +1051,8 @@ Fig 3.
 + ` cp sky130A.tech /home/vsduser/Desktop/work/tools/openlane_working_dir/openlane/vsdstdcelldesign`
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/4b81f536-dbfb-4354-b3aa-a37ee113daf8)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/4b81f536-dbfb-4354-b3aa-a37ee113daf8)
 
 </p>
 <p align="center">
@@ -1012,7 +1062,8 @@ Fig 3.
 + We can see that the tech file is added.
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/4345b957-97ce-40f9-85e6-540e2dd4aa24)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/4345b957-97ce-40f9-85e6-540e2dd4aa24)
 
 </p>
 <p align="center">
@@ -1123,7 +1174,8 @@ Fig 6.
 + Deposit a layer of Si3N4 that acts as dielectric to protect the chip.
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/2791f88f-dc5c-42fc-8592-dfe8edef0e1f)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/2791f88f-dc5c-42fc-8592-dfe8edef0e1f)
 
 </p>
 
@@ -1135,7 +1187,8 @@ Fig 6.
 + `magic -T sky130A.tech sky130_inv.mag &`
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/24b3c73f-413d-41e7-b759-51c0e0a68d1e)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/24b3c73f-413d-41e7-b759-51c0e0a68d1e)
 
 </p>
 <p align="center">
@@ -1145,7 +1198,8 @@ Fig 7.
 + Click on the component and type `what` in the tkcon window.
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/8d0d5749-a92d-4787-ba3a-e762a70b0273)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/8d0d5749-a92d-4787-ba3a-e762a70b0273)
 
 </p>
 <p align="center">
@@ -1159,7 +1213,8 @@ Fig 8.
 
 + DRC errors in magic will be highlighted with white dotted lines.
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/896b7dc4-7de4-49d6-88c6-6d4ff3d1d0c2)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/896b7dc4-7de4-49d6-88c6-6d4ff3d1d0c2)
 
 </p>
 <p align="center">
@@ -1170,7 +1225,8 @@ Fig 8.
 + It will be displayed on the tkcon window.
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/34736e9e-bd53-49a3-8038-57330e28cf3f)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/34736e9e-bd53-49a3-8038-57330e28cf3f)
 
 </p>
 <p align="center">
@@ -1184,7 +1240,8 @@ Fig 8.
 + cthresh and rthresh are used to extract all parasatic capacitances.
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/13b9c3ad-dc7c-4cd1-88a3-eaa70fb9b15a)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/13b9c3ad-dc7c-4cd1-88a3-eaa70fb9b15a)
 
 </p>
 <p align="center">
@@ -1194,7 +1251,8 @@ Fig 8.
 + We can see that the spice file is created in the folder.
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/3164700c-8df8-474f-8e83-be13fe298755)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/3164700c-8df8-474f-8e83-be13fe298755)
 
 </p>
 <p align="center">
@@ -1204,7 +1262,8 @@ Fig 8.
 + Spice File
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/ce12e687-903f-4990-b87b-4a75dbbd0502)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/ce12e687-903f-4990-b87b-4a75dbbd0502)
 
 </p>
 <p align="center">
@@ -1219,7 +1278,8 @@ Fig 13.
 
 + Grid size.
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/8094c5ae-cfc7-45a1-8725-f037d4ad9a96)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/8094c5ae-cfc7-45a1-8725-f037d4ad9a96)
 
 </p>
 <p align="center">
@@ -1228,7 +1288,8 @@ Fig 13.
 
 + We modified the spice file.
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/d3adeef3-4906-4915-a3c6-0bdb07ea7882)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/d3adeef3-4906-4915-a3c6-0bdb07ea7882)
 
 </p>
 <p align="center">
@@ -1239,7 +1300,8 @@ Fig 13.
  - `plot y vs time a`
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/4a096d23-607d-482e-a922-a85d52bbc6b1)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/4a096d23-607d-482e-a922-a85d52bbc6b1)
 
 </p>
 <p align="center">
@@ -1276,7 +1338,8 @@ Fig 13.
 + `wget http://opencircuitdesign.com/open_pdks/archive/drc_tests.tgz`
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/f8c4c0eb-e1f5-4f06-a3d6-630091d83b6e)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/f8c4c0eb-e1f5-4f06-a3d6-630091d83b6e)
 
 </p>
 <p align="center">
@@ -1294,7 +1357,8 @@ Fig 13.
 + Go to files then open `met3.mag` file.
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/e11cd4f5-d512-42f6-a53c-d406ee0f117b)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/e11cd4f5-d512-42f6-a53c-d406ee0f117b)
 
 </p>
 <p align="center">
@@ -1305,7 +1369,8 @@ Fig 13.
 + Type `drc why` in tkcon.
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/7b0e0d3f-0a6f-4cd1-aa46-6ccd155f9570)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/7b0e0d3f-0a6f-4cd1-aa46-6ccd155f9570)
 
 </p>
 <p align="center">
@@ -1316,7 +1381,8 @@ Fig 13.
 +  Type  `cif see VIA2` in tkcon prompt.
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/c2c7e3b5-2477-421f-b6e1-13ef3a68f723)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/c2c7e3b5-2477-421f-b6e1-13ef3a68f723)
 
 </p>
 <p align="center">
@@ -1330,15 +1396,151 @@ Fig 13.
 
 + Type `load poly` in the tkon prompt.
 
+<p align="center">
 
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/ae510125-9fe9-4741-aa13-cf8b6f3df1b9)
 
+</p>
+<p align="center">
+  Fig 8.
+</p>
 
+<p align="center">
 
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/fedd7dc2-1272-47f3-9649-f2e6b05f44fc)
 
+</p>
+<p align="center">
+  Fig 9.
+</p>
 
++ The error is:
+<p align="center">
+ 
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/2da66836-d3ae-4bc4-932e-8df3f57cb030)
 
+</p>
+<p align="center">
+  Fig 10.
+</p>
 
++ To fix the error open the sky130A.tech file using a editor and search for poly.9 and make the changes.
+<p align="center">
+ 
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/eae24228-49b7-400a-8c7b-6022e94b2432)
 
+</p>
+<p align="center">
+  Fig 11.
+</p>
+
+<p align="center">
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/8026c679-42dc-46b7-8bb8-a2bce855fa29)
+
+</p>
+<p align="center">
+  Fig 12.
+</p>
+
++ Now load the sky130A.tech file `tech load sky130A.tech`.
++ Type the command `drc check`.
++ We can see that the error is fixed.
+
+<p align="center">
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/8fa726f7-4987-4cdd-bdc9-3cadf175e56d)
+
+</p>
+<p align="center">
+  Fig 13.
+</p>
+
+</details>
+
+<details>
+<summary> Lab Challenge Exercise to Describe DRC Error as Geometrical Construct </summary>
+
++ Open the nwell.mag file in magic.
++ Select the nwell.6
++ Type the following commands in tkon prompt:
+  - `cif ostyle drc`
+  - `cif see dnwell_shrink`
+  - `cif see dnwell_missing`
+
+<p align="center">
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/85fbe4e7-dbeb-4ec9-90ed-e644e5f4d86d)
+
+</p>
+<p align="center">
+Fig 14.
+</p>
+
++ To find missing or incorrect rules and fix them.
+
+<p align="center">
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/c436dcbc-a75e-448f-a62b-b80d3eb29ff5)
+
+</p>
+<p align="center">
+Fig 15.
+</p>
+
++ Error is :
+
+<p align="center">
+  
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/6eaca8b8-2e08-47af-aef6-116b2ce0e7af)
+
+</p>
+<p align="center">
+Fig 16.
+</p>
+
++ To fix the error open the sky130A.tech file using a editor.
+
+<p align="center">
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/b390cace-3061-406a-af3b-05eeb4b7cfb7)
+
+</p>
+<p align="center">
+Fig 17.
+</p>
+
+<p align="center">
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/7ef4ea14-41f7-4436-806b-f50e5bf50b59)
+
+</p>
+<p align="center">
+fig 18.
+</p>
+
++ Now load the sky130A.tech file `tech load sky130A.tech`.
++ Type the command `drc check` for both normal and drc fast.
+
+<p align="center">
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/f6d06548-8d45-439e-8fb3-6d8ca9fe37fe)
+
+</p>
+<p align="center">
+Fig 19.
+</p>
+
+<p align="center">
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/89e6ca0b-ce15-4009-8dbe-6b7d8fa39b70)
+
+</p>
+<p align="center">
+Fig 20.
+</p>
+
+</details>
 
 # Day-4
 ## Timing Modelling Using Delay Tables
@@ -1349,7 +1551,8 @@ Fig 13.
 + `less tracks.info`
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/bfa9999d-f965-418c-acae-2b6e9b1a42b4)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/bd1fb1ca-df7f-4e91-b59e-54b34fd21f9c)
 
 </p>
 <p align="center">
@@ -1363,7 +1566,8 @@ Fig 1.
 + Now we converge the grid definition in the layout to track definition.
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/b394948c-3838-46b4-b9fb-317218283229)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/e02afab3-b45a-477a-be47-18b06c0bd980)
 
 </p>
 <p align="center">
@@ -1374,7 +1578,8 @@ Fig 2.
 + As we can see it encloses two full boxes and two halves of one box, totally making three boxes as indicated by the white line.
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/8b2485a3-76f5-4276-abdb-74386775e6df)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/32e715cf-0e3d-4543-87d4-126885f70f35)
 
 </p>
 <p align="center">
@@ -1390,8 +1595,8 @@ Fig 3.
 + This is to make our own .mag file.
 + `lef write` to make .lef file
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/63856cb5-dd72-460b-bd7c-d11b53b5a9d1)
 
+  
 </p>
 <p align="center">
 Fig 4.
@@ -1399,8 +1604,8 @@ Fig 4.
 
 + `less sky130_vsdinv.lef`.
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/8ec1ee32-21ca-4d92-b958-109baaa576be)
 
+  
 </p>
 <p align="center">
 Fig 5.
@@ -1414,15 +1619,16 @@ Fig 5.
 + We copy the lef file and the libraries.
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/b5d9c2f7-10a8-4932-9f63-cf63e850c319)
 
+  
 </p>
 <p align="center">
 Fig 6.
 </p>
 
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/3de838b7-2871-4a1e-a28d-86264367861e)
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/0d8fb485-64d3-4c05-b750-6bc45a9505fd)
 
 </p>
 <p align="center">
@@ -1432,7 +1638,8 @@ Fig 7.
 + Next we modify the 'config.tcl' file in the picorv32a folder.
 
 <p align="center">
-![Uploading image.png…]()
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/e07dffa5-22f6-435e-a2bc-3643e8ad4aee)
 
 </p>
 <p align="center">
@@ -1445,14 +1652,18 @@ Fig 8.
  - `add_lefs -src $lefs `
  - `run_synthesis`
 <p align="center">
-<img src="https://github.com/Veda1809/pes_pd/assets/142098395/87221315-74de-4b7d-8e95-db5a621b598d">
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/5606a0ff-dcc6-4872-b04e-4d67cbd88624)
+
 </p>
 <p align="center">
 Fig 9.
 </p>
 
 <p align="center">
-<img src="https://github.com/Veda1809/pes_pd/assets/142098395/2e0fa894-ed3a-474e-b8fa-e6e23e0bc905">
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/04f1405b-1eee-4cce-a16e-ddf2c9bdec5b)
+
 </p>
 <p align="center">
 Fig 10.
@@ -1460,7 +1671,9 @@ Fig 10.
 
 
 <p align="center">
-<img src="https://github.com/Veda1809/pes_pd/assets/142098395/f59efbaa-cf5b-430e-aafd-b8839411b5a3">
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/a46e9ec7-a44d-478b-9ce0-e05c8ca6f5fe)
+
 </p>
 <p align="center">
 Fig 11.
@@ -1528,7 +1741,9 @@ Fig 11.
 + The first one must be in the openlane directory
 + This file is known as the 'pre_sta.conf' file.
 <p align="center">
-<img src="https://github.com/Veda1809/pes_pd/assets/142098395/ef4dc5de-b4d8-4daa-b24b-cccc92892422">
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/f1f35e9d-f9b8-43e8-879c-e6868b2d1339)
+
 </p>
 <p align="center">
   Fig 1.
@@ -1537,14 +1752,18 @@ Fig 11.
 + The second is the my_base.sdc file.
 + This should be in the 'src/sky130' directory under the picorv32a directory.
 <p align="center">
-<img src="https://github.com/Veda1809/pes_pd/assets/142098395/8f3d851d-0ca4-4b23-b832-74947d2d2a0f">
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/268a46f1-287c-47fc-86b7-f3576eaaf2cf)
+
 </p>
 <p align="center">
   Fig 2.
 </p>
 
 <p align="center">
-<img src="https://github.com/Veda1809/pes_pd/assets/142098395/f1752a7e-99cf-4d19-9db6-ecbf25a71e1b">
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/38267bb2-6e59-496b-87f4-3449671edf6b)
+
 </p>
 <p align="center">
   Fig 3.
@@ -1554,7 +1773,9 @@ Fig 11.
 + `sta pre_sta.conf`
 
 <p align="center">
-<img src="https://github.com/Veda1809/pes_pd/assets/142098395/fd40565b-ac21-4a70-a5aa-e2119c578e85">
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/9d4b5ca4-af3a-4e58-99e7-0a79f0172927)
+
 </p>
 <p align="center">
   Fig 4.
@@ -1571,7 +1792,9 @@ Fig 11.
 + Then `run_synthesis`
 
 <p align="center">
-<img src="https://github.com/Veda1809/pes_pd/assets/142098395/d5aa0045-2fd8-4feb-80b0-7a5131e65e74">
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/a6bbed60-9f8e-4cb0-82e3-1b52b47a8825)
+
 </p>
 <p align="center">
   Fig 5.
@@ -1580,7 +1803,9 @@ Fig 11.
 + Since we have synthesised the core using our vsdinv cell too and as it got successfully synthesized, it should be visible in layout after `run_placement` stage which is followed after `run_floorplan` stage.
 
 <p align="center">
-<img src="https://github.com/Veda1809/pes_pd/assets/142098395/120370db-6dd6-4a5f-94aa-2790e3ea9555">
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/4290ba6c-b93e-4eb8-845e-a75982995a4b)
+
 </p>
 <p align="center">
   Fig 6.
@@ -1598,7 +1823,9 @@ Fig 11.
 + New .v is created.
 
 <p align="center">
-<img src="https://github.com/Veda1809/pes_pd/assets/142098395/56f2c27f-59e1-4609-bb92-538bfdc12a3d">
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/3efc9ed7-e603-4fbf-850a-72f419931c6a)
+
 </p>
 <p align="center">
   Fig 7.
@@ -1622,7 +1849,9 @@ Fig 11.
 + `read_sdc /openLANE_flow/designs/picorv32a/src/my_base.sdc`
 
 <p align="center">
-<img src="https://github.com/Veda1809/pes_pd/assets/142098395/b154f855-0fbe-4474-a00e-018eea31e970">
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/d5d032ab-6b8f-4f05-8b00-27de0f449019)
+
 </p>
 <p align="center">
   Fig 8.
@@ -1632,14 +1861,18 @@ Fig 11.
 + `report_checks -path_delay min_max -format full_clock_expanded -digits 4`
 
 <p align="center">
-<img src="https://github.com/Veda1809/pes_pd/assets/142098395/f9d97652-2a66-4da1-a0ac-86ee5b1b0d85">
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/dc63457d-bd25-46fa-ad46-2c9ccdc4d181)
+
 </p>
 <p align="center">
   Fig 9.
 </p>
 
 <p align="center">
-<img src="https://github.com/Veda1809/pes_pd/assets/142098395/f9c6f227-2605-4981-923b-5b67d4d1884e">
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/eca25055-8d67-4a42-81f8-847f40837265)
+
 </p>
 <p align="center">
   Fig 10.
@@ -1648,14 +1881,18 @@ Fig 11.
 + We perform it again for a more accurate result.
 
 <p align="center">
-<img src="https://github.com/Veda1809/pes_pd/assets/142098395/0ef49445-3ca6-431f-ac45-e4e79ea4e362">
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/e5f47246-1fc2-41e8-aef2-6b3a2398e36e)
+
 </p>
 <p align="center">
   Fig 11.
 </p>
 
 <p align="center">
-<img src="https://github.com/Veda1809/pes_pd/assets/142098395/57d4836d-4a2d-48cb-817b-3ef317043769">
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/1497f19b-6153-4f31-9f8c-bfdd61121653)
+
 </p>
 <p align="center">
   Fig 12.
@@ -1669,7 +1906,9 @@ Fig 11.
 + `report_clock_skew -hold`
 
 <p align="center">
-<img src="https://github.com/Veda1809/pes_pd/assets/142098395/ae0f7352-156a-48bb-92b9-729c3491ffba">
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/af0f1209-47be-41a4-9cc9-27f6e7755954)
+
 </p>
 <p align="center">
   Fig 13.
@@ -1678,7 +1917,9 @@ Fig 11.
 + `report_clock_skew -setup`
 
 <p align="center">
-<img src="https://github.com/Veda1809/pes_pd/assets/142098395/abd5c628-ad24-4f32-a426-1973943f1dfc">
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/bc9860ca-7479-463a-942d-8ffeea912931)
+
 </p>
 <p align="center">
 Fig 14.
@@ -1733,14 +1974,17 @@ Lambda rules are process-specific design rules used in semiconductor manufacturi
 + After generating our clock tree network and verifying post routing STA checks we are ready to generate the power distribution network `gen_pdn` in OpenLANE:
 
 <p align="center">
-<img src="https://github.com/Veda1809/pes_pd/assets/142098395/8e498aeb-8efe-42bc-a1c9-a85f14be957c">
-</p>
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/488ebadf-a0ca-4a59-9335-a2d5830ad86d)
+
 <p align="center">
   Fig 1.
 </p>
 
 <p align="center">
-<img src="https://github.com/Veda1809/pes_pd/assets/142098395/7dde0890-0e24-4b1d-ac2b-153324d32d5d">
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/421d7663-b78b-4004-89d5-ce06ce5fda08)
+
 </p>
 <p align="center">
   fig 2.
@@ -1754,7 +1998,9 @@ Lambda rules are process-specific design rules used in semiconductor manufacturi
 + We see that there is a change in the DEF.
 
 <p align="center">
-<img src="https://github.com/Veda1809/pes_pd/assets/142098395/c39633c9-f35a-4333-b5ed-7db6e771bd70">
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/23a8d3cf-83ae-44a1-ac21-cfd946a88014)
+
 </p>
 <p align="center">
   Fig 3.
@@ -1772,7 +2018,9 @@ Lambda rules are process-specific design rules used in semiconductor manufacturi
 + To run routing in OpenLANE:
   `run_routing`
 
-<p align="center">![image](https://github.com/KushalR17/pes_pd/assets/142383052/fc82b070-780c-45db-9fbb-c24bf5b85000)
+<p align="center">
+
+  ![image](https://github.com/KushalR17/pes_pd/assets/142383052/21acbeb0-8f27-4a65-9569-15ff97d7c302)
 
 </p>
 <p align="center">
