@@ -52,7 +52,8 @@
 + QFN packages are commonly used in electronics to house integrated circuits, microcontrollers, and other semiconductor devices.
 + The **48** in QFN-48 refers to the number of pins or leads on the package.
 <p align="center">
-![image](https://github.com/KushalR17/pes_pd/assets/142383052/ad7c0f19-d1ac-4d9e-83e1-fc7a58ca4921)
+
+![image](https://github.com/KushalR17/pes_pd/assets/142383052/08e39536-60d6-478f-8aac-864e1fe28f05)
 
 </p>
 <p align="center">
