@@ -64,6 +64,8 @@
 + These chips can be microprocessors, memory chips, sensors, or other electronic components. For example, a microprocessor chip is the **brain** of a computer.
 
 <p align="center">
+
+  
 ![image](https://github.com/KushalR17/pes_pd/assets/142383052/2c806a74-5f78-4601-a197-ea3556e61aa8)
 
 </p>
